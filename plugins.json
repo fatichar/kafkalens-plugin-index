@@ -12,7 +12,7 @@
       "category": "Theme",
       "homepage": "https://github.com/fatichar/kafkalens-themes",
       "repository": "https://github.com/fatichar/kafkalens-themes.git",
-      "downloadUrl": "https://github.com/fatichar/kafkalens-themes/archive/refs/heads/main.zip",
+      "downloadUrl": "https://github.com/fatichar/kafkalens-themes/releases/latest/download/nature-themes-latest.zip",
       "checksum": "",
       "kafkalensVersion": ">=0.9",
       "tags": ["theme", "ui", "community", "zero-code", "nature"],
