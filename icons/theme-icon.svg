@@ -1,0 +1,23 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="32" cy="32" r="30" fill="#f0f0f0" stroke="#333" stroke-width="2"/>
+  
+  <!-- Theme color swatches -->
+  <rect x="12" y="12" width="10" height="10" fill="#FF6B35" rx="2"/>
+  <rect x="26" y="12" width="10" height="10" fill="#4CAF50" rx="2"/>
+  <rect x="40" y="12" width="10" height="10" fill="#2196F3" rx="2"/>
+  
+  <rect x="12" y="26" width="10" height="10" fill="#9C27B0" rx="2"/>
+  <rect x="26" y="26" width="10" height="10" fill="#607D8B" rx="2"/>
+  <rect x="40" y="26" width="10" height="10" fill="#FF9800" rx="2"/>
+  
+  <!-- Paint brush icon -->
+  <g transform="translate(20, 40)">
+    <rect x="0" y="0" width="4" height="12" fill="#333" rx="1"/>
+    <polygon points="2,12 0,16 4,16" fill="#333"/>
+    <rect x="0" y="2" width="8" height="2" fill="#FF6B35" rx="1"/>
+  </g>
+  
+  <!-- Palette outline -->
+  <rect x="10" y="10" width="42" height="42" fill="none" stroke="#333" stroke-width="1.5" rx="4"/>
+</svg>

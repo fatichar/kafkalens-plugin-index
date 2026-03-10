@@ -8,6 +8,16 @@ KafkaLens downloads this index to discover and install community plugins. The in
 
 ---
 
+## 📦 Available Plugins
+
+### 🎨 Themes
+
+| Plugin | Description | Themes |
+|--------|-------------|---------|
+| **[Nature Themes Collection](https://github.com/fatichar/kafkalens-themes)** | Beautiful nature-inspired themes | Bright, Forest, Gray, Ocean, Purple |
+
+---
+
 ## Repository Structure
 
 ```

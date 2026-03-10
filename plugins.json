@@ -3,5 +3,23 @@
   "description": "Official public plugin index for the KafkaLens application.",
   "homepage": "https://github.com/fatichar/kafkalens-plugin-index",
   "plugins": [
+    {
+      "id": "nature-themes",
+      "name": "Nature Themes Collection",
+      "version": "1.0.0",
+      "author": "KafkaLens Community",
+      "description": "Beautiful nature-inspired themes - Bright, Forest, Gray, Ocean, and Purple themes",
+      "category": "Theme",
+      "homepage": "https://github.com/fatichar/kafkalens-themes",
+      "repository": "https://github.com/fatichar/kafkalens-themes.git",
+      "downloadUrl": "https://github.com/fatichar/kafkalens-themes/archive/refs/heads/main.zip",
+      "checksum": "",
+      "kafkalensVersion": ">=0.9",
+      "tags": ["theme", "ui", "community", "zero-code", "nature"],
+      "containsThemes": ["bright", "forest", "gray", "ocean", "purple"],
+      "icon": "icons/theme-icon.png",
+      "published": "2025-03-11T00:00:00Z",
+      "updated": "2025-03-11T00:00:00Z"
+    }
   ]
 }
