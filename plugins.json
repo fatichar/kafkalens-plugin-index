@@ -1,0 +1,7 @@
+{
+  "name": "KafkaLens Public Plugin Repository",
+  "description": "Official public plugin index for the KafkaLens application.",
+  "homepage": "https://github.com/fatichar/kafkalens-plugin-index",
+  "plugins": [
+  ]
+}
