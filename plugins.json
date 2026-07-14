@@ -6,7 +6,7 @@
     {
       "id": "nature-themes",
       "name": "Nature Themes Collection",
-      "version": "dev-a891f13",
+      "version": "1.0.0",
       "author": "KafkaLens Community",
       "description": "Beautiful nature-inspired themes - Bright, Forest, Gray, Ocean, and Purple themes",
       "category": "Theme",
@@ -14,7 +14,7 @@
       "repository": "https://github.com/fatichar/kafkalens-themes.git",
       "downloadUrl": "https://github.com/fatichar/kafkalens-themes/releases/latest/download/nature-themes-latest.zip",
       "checksum": "",
-      "kafkalensVersion": ">=0.9",
+      "kafkalensVersion": ">=0.9.0",
       "tags": ["theme", "ui", "community", "zero-code", "nature"],
       "containsThemes": ["bright", "forest", "gray", "ocean", "purple"],
       "icon": "icons/theme-icon.png",
